@@ -16,7 +16,7 @@ sudo apt-get install -y --no-install-recommends \
 Run:
 
 ```
-NGINX_VERSION=1.29.4 bash ./build.sh
+NGINX_VERSION=1.31.5 bash ./build.sh
 ```
 
 Output:
